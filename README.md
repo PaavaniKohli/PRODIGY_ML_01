@@ -1,5 +1,5 @@
 # Prodigy Infotech Internship task 1 of Machine Learning
-## Linear Regrression model to predict prices of houses
+## Linear Regression model to predict prices of houses
 
 ### Overview
 The code aims to build and evaluate linear regression models to predict house prices (SalePrice) based on their square footage and number of bedrooms and bathrooms, using a dataset containing information about residential properties. Two variations of linear regression models are demonstrated: one with polynomial features and another without.
